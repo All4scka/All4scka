@@ -9,7 +9,7 @@
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=All4scka&theme=outrun&show_icons=true"/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=All4scka"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=All4scka"/>
 
 </div>
 
