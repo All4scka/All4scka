@@ -4,7 +4,7 @@
 
 #### Meu nome é Maria Rafaela!
 
-#### Sou uma desenvolvedora front-end iniciante.
+#### Sou uma desenvolvedora iniciante!
 
 
 ### Contatos
